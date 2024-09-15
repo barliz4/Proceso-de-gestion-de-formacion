@@ -1,0 +1,23 @@
+/* Estilo para el contenedor principal */
+.contenedor {
+    background-color: rgb(145, 59, 10);
+    padding: 50px;
+}
+
+/* Estilo para cualquier <p> dentro de .contenedor */
+.contenedor{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+/* Estilo para el subtítulo dentro de .contenedor */
+.contenedor h1 {
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+
+/* Estilo para cualquier <p> dentro de .subcontenedor */
+.subcontenedor p {
+    color: rgb(249, 249, 249);
+    font-size: 19px;
+}
